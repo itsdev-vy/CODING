@@ -1,5 +1,4 @@
 // Factorial.
-// Factorial Using recursion.
 // Palindrome.
 // Fibonacci.
 // Sum of n numbers.
