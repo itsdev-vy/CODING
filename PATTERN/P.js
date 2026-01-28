@@ -1,0 +1,3 @@
+// Triangle.
+// square.
+// Right triangle.
