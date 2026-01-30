@@ -16,6 +16,7 @@
 // Rotate array - rotate the array to the right by k steps, where k is non - negative
 // Search Insert Position.
 // Maximum subarray.
+// Find minimum number in an array
 // Merge sorted array.
 // Increment the last element by 1.
 // Wap to count the frequency / occurrence of each element in the array.
@@ -27,3 +28,4 @@
 // Merge sort.
 // Majority Element - Leetcode #169
 // Quick sort, Recursion
+

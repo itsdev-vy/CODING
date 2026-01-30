@@ -1,7 +1,8 @@
 // Factorial.
 // Palindrome.
 // Fibonacci.
-// Sum of n numbers.
+// Sum of n numbers(2537 → 17).
+// Sum of first n numbers().
 // Odd or even.
 // Prime or not and 1 to n.
 // swap two variables without using the 3rd variable.
